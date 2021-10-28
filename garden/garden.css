@@ -1,0 +1,107 @@
+#garden-tag {
+    margin-left: 64px;
+    display: flex;
+}
+
+h2 {
+    margin-left: 34em;
+    width: 320px;
+    height: 62px;
+    margin-top: 12px;
+    text-align: center;
+    background-color: #000000;
+    color: #f2f2f2;
+}
+
+h2:hover {
+    color: #000000;
+    background-color: #f2f2f2;
+    margin-left: 34em;
+    width: 320px;
+    height: 62px;
+    margin-top: 12px;
+    text-align: center;
+    font-family: 'Montserrat', 'Qahiri', sans-serif;
+}
+
+#garden-tag img {
+    margin-left: 120px;
+    margin-top: 1em;
+}
+
+#garden-tag fieldset {
+    margin-top: 34px;
+    margin-left: 4em;
+    width: 520px;
+    height: 442px;
+}
+
+#garden-tag button {
+    width: 210px;
+    height: 42px;
+    border-radius: 3em;
+    margin-top: 24px;
+    margin-left: 82px;
+    color: #f2f2f2;
+    background-color: #ff6600;
+}
+
+
+/*------------GARDENTAG2------------*/
+
+#garden-tag2 {
+    display: flex;
+    margin-left: 64px;
+}
+
+#garden-tag2 fieldset {
+    margin-top: 32px;
+    margin-left: 4em;
+    width: 520px;
+    height: 442px;
+}
+
+#garden-tag2 img {
+    margin-left: 120px;
+    margin-top: 1em;
+}
+
+#garden-tag2 button {
+    width: 210px;
+    height: 42px;
+    border-radius: 3em;
+    margin-top: 24px;
+    margin-left: 82px;
+    color: #f2f2f2;
+    background-color: #ff6600;
+}
+
+
+/*------------GARDENTAG3------------*/
+
+#garden-tag3 {
+    display: flex;
+    margin-left: 64px;
+}
+
+#garden-tag3 fieldset {
+    margin-top: 32px;
+    margin-left: 4em;
+    width: 520px;
+    height: 442px;
+}
+
+#garden-tag3 img {
+    margin-left: 120px;
+    margin-top: 1em;
+}
+
+#garden-tag3 button {
+    width: 210px;
+    height: 42px;
+    border-radius: 3em;
+    margin-top: 24px;
+    margin-left: 82px;
+    color: #f2f2f2;
+    background-color: #ff6600;
+}

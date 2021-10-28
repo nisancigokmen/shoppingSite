@@ -1,0 +1,74 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+#search {
+    display: flex;
+    margin-left: 12px;
+    margin-top: 12px;
+}
+
+#search input {
+    width: 240px;
+    height: 32px;
+    font-size: 18px;
+}
+
+#search #logo-img {
+    margin-left: 42em;
+}
+
+#search #person {
+    margin-left: 32em;
+}
+
+#search #person ul {
+    display: flex;
+}
+
+#search #person a {
+    text-decoration: none;
+    color: #000000;
+}
+
+#search #person ul li {
+    list-style: none;
+    margin-left: 12px;
+    font-size: 18px;
+}
+
+#person img {
+    margin-left: 21px;
+}
+
+
+/* --------------- tag container ----------------- */
+
+#tagcontainer {
+    background-color: #c9c6c6;
+    height: 32px;
+}
+
+#tagcontainer ul {
+    display: flex;
+    justify-content: space-around;
+    font-size: 21px;
+}
+
+#tagcontainer ul li {
+    list-style: none;
+    margin-top: 4px;
+    background-color: #f2f2f2;
+    width: 120px;
+    text-align: center;
+}
+
+#tagcontainer ul li:hover {
+    background-color: #c9c6c6;
+}
+
+#tagcontainer a {
+    text-decoration: none;
+    color: #000000;
+}

@@ -1,0 +1,68 @@
+body {
+    margin: 0px;
+    border: 0px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 32px;
+}
+
+h3 {
+    font-size: 24px;
+    margin-left: 21em;
+    margin-top: 1em;
+}
+
+form {
+    text-align: center;
+    font-size: 21px;
+}
+
+button {
+    margin-top: 1em;
+    width: 140px;
+    height: 32px;
+    background-color: #000000;
+    color: #f2f2f2;
+}
+
+button:hover {
+    background-color: #f2f2f2;
+    color: #000000;
+}
+
+fieldset {
+    margin-left: 32em;
+    margin-right: 12em;
+    margin-top: 2em;
+    width: 840px;
+    height: 360px;
+}
+
+input {
+    margin-top: 8px;
+}
+
+.heighttext {
+    width: 210px;
+    height: 32px;
+    font-size: 18px;
+}
+
+.heightstext {
+    width: 210px;
+    height: 122px;
+    font-size: 18px;
+}
+
+#commentimg {
+    width: 450px;
+    margin-left: 42em;
+    margin-top: 1em;
+}
+
+hr {
+    width: 510px;
+    margin-left: 510px;
+}

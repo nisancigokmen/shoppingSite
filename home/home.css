@@ -1,0 +1,131 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+#homePage {
+    display: flex;
+}
+
+#homePage fieldset {
+    margin-top: 32px;
+    margin-left: 4em;
+    width: 520px;
+    height: 442px;
+}
+
+#homePage button {
+    width: 210px;
+    height: 42px;
+    border-radius: 3em;
+    margin-top: 24px;
+    margin-left: 82px;
+    color: #f2f2f2;
+    background-color: #ff6600;
+}
+
+#homePage img {
+    margin-left: 6em;
+}
+
+
+/*Tools2 bootom tag*/
+
+#homePage2 {
+    display: flex;
+}
+
+#homePage2 img {
+    margin-left: 6em;
+}
+
+#homePage2 fieldset {
+    margin-top: 32px;
+    margin-left: 4em;
+    width: 520px;
+    height: 442px;
+}
+
+#homePage2 button {
+    width: 210px;
+    height: 42px;
+    border-radius: 3em;
+    margin-top: 24px;
+    margin-left: 82px;
+    color: #f2f2f2;
+    background-color: #ff6600;
+}
+
+h2 {
+    margin-left: 24em;
+    width: 320px;
+    height: 62px;
+    margin-top: 12px;
+    text-align: center;
+    background-color: #ff6600;
+    color: #f2f2f2;
+    font-size: 32px;
+}
+
+h2:hover {
+    background-color: #f2f2f2;
+    color: #ff6600;
+    margin-left: 24em;
+    width: 320px;
+    height: 62px;
+    margin-top: 12px;
+    text-align: center;
+    font-family: 'Montserrat', 'Qahiri', sans-serif;
+    font-size: 32px;
+}
+
+
+/*Tools3 bootom tag*/
+
+#homePage3 {
+    display: flex;
+}
+
+#homePage3 img {
+    margin-left: 6em;
+}
+
+#homePage3 fieldset {
+    margin-top: 32px;
+    margin-left: 4em;
+    width: 520px;
+    height: 442px;
+}
+
+#homePage3 button {
+    width: 210px;
+    height: 42px;
+    border-radius: 3em;
+    margin-top: 24px;
+    margin-left: 82px;
+    color: #f2f2f2;
+    background-color: #ff6600;
+}
+
+h2 {
+    margin-left: 24em;
+    width: 320px;
+    height: 62px;
+    margin-top: 12px;
+    text-align: center;
+    background-color: #ff6600;
+    color: #f2f2f2;
+    font-size: 32px;
+}
+
+h2:hover {
+    background-color: #f2f2f2;
+    color: #ff6600;
+    margin-left: 24em;
+    width: 320px;
+    height: 62px;
+    margin-top: 12px;
+    text-align: center;
+    font-family: 'Montserrat', 'Qahiri', sans-serif;
+    font-size: 32px;
+}

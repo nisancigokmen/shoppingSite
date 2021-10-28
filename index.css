@@ -1,0 +1,217 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+
+/* --------------- tag container ----------------- */
+
+#tagcontainer {
+    background-color: #c9c6c6;
+    height: 64px;
+}
+
+#tagcontainer ul {
+    display: flex;
+    justify-content: space-around;
+    font-size: 21px;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+#tagcontainer ul li {
+    list-style: none;
+    margin-top: 21px;
+    background-color: #f2f2f2;
+    width: 120px;
+    text-align: center;
+}
+
+#tagcontainer ul li:hover {
+    background-color: #c9c6c6;
+}
+
+#tagcontainer a {
+    text-decoration: none;
+    color: #000000;
+}
+
+
+/*--------------------tag-fieldset--------------------*/
+
+.fieldsetag1 {
+    display: flex;
+}
+
+.fieldsetag2 {
+    display: flex;
+}
+
+.fieldsetag1 fieldset {
+    width: 42em;
+    height: 22em;
+    margin-top: 1em;
+    margin-right: 2em;
+    margin-left: 2em;
+    margin-bottom: 1em;
+}
+
+.fieldsetag2 fieldset {
+    width: 42em;
+    height: 22em;
+    margin-top: 1em;
+    margin-right: 2em;
+    margin-left: 2em;
+    margin-bottom: 1em;
+}
+
+
+/* <-------------fieldset style... ------------>*/
+
+
+/*---------------fieldset tag 1 style---------------*/
+
+.fieldsetag1 .fieldsetImg1 {
+    margin-left: 6em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.fieldsetag1 .fieldsetImg2 {
+    margin-left: 12em;
+    margin-top: 0.65em;
+    margin-bottom: 1em;
+}
+
+.fieldsetag1 .fieldsetImg3 {
+    margin-left: 8em;
+    margin-top: 0.65em;
+    margin-bottom: 1em;
+}
+
+.fieldsetag1 .fieldsetTitle1 {
+    margin-left: 2em;
+    font-size: 16px;
+    margin-top: 2em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.fieldsetag1 .fieldsetTitle2 {
+    margin-left: 2em;
+    margin-top: 2em;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.fieldsetag1 .fieldsetTitle3 {
+    margin-left: 2em;
+    margin-top: 2em;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.fieldsetag1 .fieldsetSalary1 {
+    margin-top: 0.25em;
+    margin-left: 9em;
+    font-size: 24px;
+}
+
+.fieldsetag1 .fieldsetSalary2 {
+    margin-top: 0.25em;
+    margin-left: 9em;
+    font-size: 24px;
+}
+
+.fieldsetag1 .fieldsetSalary3 {
+    margin-top: 0.12em;
+    margin-left: 9em;
+    font-size: 24px;
+}
+
+.btn-orange {
+    width: 10em;
+    height: 2em;
+    margin-left: 8.5em;
+    background-color: #ffbb00;
+    color: #f2f2f2;
+    font-size: 18px;
+}
+
+.btn-orange:hover {
+    background-color: #f2f2f2;
+    color: #ffbb00;
+}
+
+
+/*---------------fieldset tag 2 style---------------*/
+
+.fieldsetag2 .fieldsetImg1 {
+    margin-left: 6em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.fieldsetag2 .fieldsetImg2 {
+    margin-left: 12em;
+    margin-top: 0.65em;
+    margin-bottom: 1em;
+}
+
+.fieldsetag2 .fieldsetImg3 {
+    margin-left: 8em;
+    margin-top: 0.65em;
+    margin-bottom: 1em;
+}
+
+.fieldsetag2 .fieldsetTitle1 {
+    margin-left: 4em;
+    font-size: 16px;
+    margin-top: 2em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.fieldsetag2 .fieldsetTitle2 {
+    margin-left: 9em;
+    margin-top: 2em;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.fieldsetag2 .fieldsetTitle3 {
+    margin-left: 8em;
+    margin-top: 2em;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.fieldsetag2 .fieldsetSalary1 {
+    margin-top: 0.25em;
+    margin-left: 8em;
+    font-size: 24px;
+}
+
+.fieldsetag2 .fieldsetSalary2 {
+    margin-top: 0.25em;
+    margin-left: 9em;
+    font-size: 24px;
+}
+
+.fieldsetag2 .fieldsetSalary3 {
+    margin-top: 0.12em;
+    margin-left: 8em;
+    font-size: 24px;
+}
+
+.btn-orange2 {
+    width: 10em;
+    height: 2em;
+    margin-left: 8em;
+    background-color: #ffbb00;
+    color: #f2f2f2;
+    font-size: 18px;
+}
+
+.btn-orange2:hover {
+    color: #ffbb00;
+    background-color: #f2f2f2;
+}
