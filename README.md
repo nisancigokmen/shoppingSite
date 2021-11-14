@@ -7,9 +7,7 @@ https://user-images.githubusercontent.com/91744618/139251080-5117d8e5-fc57-4d63-
 <hr>
 <div>
 <img src="https://media0.giphy.com/media/Ejn6xH5mnmtMI/giphy.gif?cid=790b7611308d5b457a8ff9830755a10d0de675ff54befdf0&rid=giphy.gif&ct=g">
-  
-
-  
+ 
   
 </div><br>
 &copy; Gökmen Nişancı / Web Developer.
