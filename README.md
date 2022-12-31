@@ -1,6 +1,5 @@
 # shoppingSite
 
-
 https://user-images.githubusercontent.com/91744618/139251080-5117d8e5-fc57-4d63-b5a2-68810149845d.mp4
 
 <div id="contact">
@@ -24,6 +23,7 @@ https://user-images.githubusercontent.com/91744618/139251080-5117d8e5-fc57-4d63-
  </div>
  
 <br>
+
 
 </div><br>
 &copy; Gökmen Nişancı / Web Developer. <br><br>
